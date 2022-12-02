@@ -14,6 +14,6 @@
 
 ## execute para descriptografar o arquivo infectado pelo ransomware com a extensão .ransomwaretroll o seguinte comando:
 
-## python encrypter.py teste.txt.ransomwaretroll
+## python decrypter.py
 
 ## Espero que tenha lhe ajudado.
